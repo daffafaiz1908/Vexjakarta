@@ -13,8 +13,8 @@ const slides = [
     label: "Music Quality",
     title: "Genres That Move You",
     description:
-      "We curate the finest DJs and selectors across every genre you love: Top 40, EDM, R&B, Hip-Hop, Jersey Club, Afrobeats, and Amapiano. Every event is a sonic journey designed to keep you on the floor.",
-    tags: ["Top 40", "EDM", "R&B", "Hip-Hop", "Jersey", "Afrobeats", "Amapiano"],
+      "We curate the finest DJs and selectors across every genre you love: Afro House, Tech House, Melodic, Progressive, and Breakbeat. Every event is a sonic journey designed to keep you on the floor.",
+    tags: ["Afro House", "Tech House", "Melodic", "Progressive", "Breakbeat"],
   },
   {
     id: "experience",
